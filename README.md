@@ -1,5 +1,7 @@
 # Covid-19 App Landing WebPage
 
+![LangingPage](https://user-images.githubusercontent.com/55108788/97798532-f21cd480-1c4c-11eb-8280-6250a11781eb.png)
+
 This Project is made as a part of Learning Front-end Web Development. 
 
 This webpage is made right from scratch using HTML, CSS, Bootstrap.
